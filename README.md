@@ -38,10 +38,6 @@ https://legendary-bienenstitch-f1cc83.netlify.app/
 ## Usage
 Go live on index.html
 
-## Credentials
-email- kajal@gmail.com
-password- aryakajal
-
 ## Technology Stack
 List and provide a brief overview of the technologies used in the project.
 
