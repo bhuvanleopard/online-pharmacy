@@ -26,10 +26,10 @@ Fullstack Web Application (Frontend with Firebase Backend)
 https://legendary-bienenstitch-f1cc83.netlify.app/
 
 ## Video Walkthrough of the project
-"https://drive.google.com/file/d/1nPHsnUKBdeFSoSN1GyHsvILt9Q-6VizI/view?usp=sharing"
+
 
 ## Video Walkthrough of the codebase
-"https://drive.google.com/file/d/1iPJBuVdxqYkv7KjhzEWVUV6YMsDvsOlY/view?usp=sharing"
+
 ## Features
 - Easy searching and filtering of products
 - Easy addition and removal of Cart items
